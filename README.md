@@ -3,22 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtwillo51&label=Profile%20views&color=0e75b6&style=flat" alt="jtwillo51" /> </p>
 
-- 🔭 I’m currently working on [Village Book Builders](https://github.com/Lambda-School-Labs/village-book-builders-fe-a)
-
-- 🌱 I’m currently learning **AWS**
-
-- 👯 I’m looking to collaborate on **Anything 👌**
-
-- 🤝 I’m looking for help with **Learning AWS**
-
-- 👨‍💻 All of my projects are available at [jeremywilloughby.com](jeremywilloughby.com)
-
-- 💬 Ask me about **my portfolio**
-
-- 📫 How to reach me **www.jeremywilloughby.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qz4wWtO9PVVl_OBftilNTZPIOL_AK196/view?usp=sharing](https://drive.google.com/file/d/1qz4wWtO9PVVl_OBftilNTZPIOL_AK196/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jeremy-willoughby/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jeremy-willoughby/" height="30" width="40" /></a>
