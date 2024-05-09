@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jeremy</h1>
-<h3 align="center">A passionate frontend developer from Utah, going to Arizona</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtwillo51&label=Profile%20views&color=0e75b6&style=flat" alt="jtwillo51" /> </p>
 
 <h3 align="left">Connect with me:</h3>
