@@ -20,7 +20,7 @@ For the last three years I've been the Subject Matter Expert for both frontend d
 
 ## A note on these repositories
 
-Most of what I build lives in private repos. The largest is BuffrHQ, a CRM for mobile detailing businesses that I designed, built, and shipped to the App Store on my own: a React Native mobile app, a Vue admin platform, and a Node backend, with Mapbox-based mapping across both surfaces. Alongside that are client sites and internal tooling.
+Most of what I build lives in private repos. The largest is [BuffrHQ](https://apps.apple.com/us/app/buffrhq-detailing-app-crm/id6766998111), a CRM for mobile auto detailers that I designed, built, and shipped to the App Store on my own: a React Native mobile app, a Vue admin platform, and a Node backend, with Mapbox-based mapping across both surfaces. Alongside that are client sites and internal tooling.
 
 The public repositories here are mostly coursework from my time at Lambda School, 2019 to 2021. They are not representative of what I build now.
 
